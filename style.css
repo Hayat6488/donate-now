@@ -3,6 +3,8 @@ body {
     font-family: 'Ubuntu', sans-serif;
 
     margin: 0px;
+
+    margin-bottom: 30px;
 }
 
 .top {
@@ -13,7 +15,7 @@ body {
     background-size: 100% 100%;
     padding-left: 100px;
     text-align: center;
-    display: inline-block;
+
 }
 
 .top-h1 {
@@ -26,12 +28,15 @@ body {
 .link-button {
     text-decoration: none;
     background-color: yellowgreen;
-    padding: 15px 20px;
+    padding: 15px 5px;
     border-radius: 10px;
     font-weight: 800;
-    font-size: large;
+    font-size: 22px;
     color: ghostwhite;
     font-family: Arial, Helvetica, sans-serif;
+    height: 22px;
+    width: 150px;
+    text-align: center;
 }
 
 .top p {
@@ -42,17 +47,24 @@ body {
     padding-right: 8%;
 }
 
-.don-dis {
-    display: flex;
-}
-
-.don-dis h1 {
-    padding: 10px 10px;
-}
-
 .donation {
-    display: inline-block;
+    display: block;
     text-align: center;
     padding-left: 8%;
     padding-right: 8%;
+}
+
+.don-dis {
+    display: flex;
+    justify-content: center;
+}
+
+.don-dis h1 {
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+#link {
+    margin: auto;
+    display: block;
 }
