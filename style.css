@@ -156,3 +156,15 @@ p {
 #b3 {
     background-color: rgba(245, 245, 132, 0.597);
 }
+
+.flex-2 {
+
+    margin-top: 50px;
+
+    margin-left: 20%;
+    display: flex;
+}
+
+.di-wi {
+    width: 50%;
+}
