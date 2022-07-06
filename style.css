@@ -68,3 +68,19 @@ body {
     margin: auto;
     display: block;
 }
+
+.box{
+
+    margin: 10px 20px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border: 2px white solid;
+    border-radius: 5px;
+    background-color: rgba(207, 204, 204, 0.345);
+}
+
+#box1{border: 2px rgb(221, 73, 73) solid;
+    border-radius: 5px;
+    background-color: rgba(192, 67, 67, 0.273);
+
+}
