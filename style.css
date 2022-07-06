@@ -197,6 +197,8 @@ p {
     height: 48px;
     width: 150px;
     text-align: center;
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
 }
 
 footer p {
