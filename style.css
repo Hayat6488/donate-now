@@ -168,3 +168,35 @@ p {
 .di-wi {
     width: 50%;
 }
+
+#para-last {
+    text-align: center;
+
+}
+
+.mail {
+    margin: auto;
+    height: 100px;
+    width: 550px;
+    padding: 50px 150px 20px 350px;
+    background-color: rgba(245, 245, 132, 0.597);
+    display: flex;
+}
+
+.mail input {
+    width: 50%;
+    height: 46px;
+    border: none;
+    background-color: rgba(96, 96, 96, 0.358);
+}
+
+.sub {
+    background-color: yellowgreen;
+    font-weight: 800;
+    font-size: 22px;
+    color: ghostwhite;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 48px;
+    width: 150px;
+    text-align: center;
+}
