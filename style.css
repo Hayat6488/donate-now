@@ -38,5 +38,21 @@ body {
     color: aliceblue;
     font-size: 20px;
     text-align: center;
-    padding: 30px;
+    padding-left: 8%;
+    padding-right: 8%;
+}
+
+.don-dis {
+    display: flex;
+}
+
+.don-dis h1 {
+    padding: 10px 10px;
+}
+
+.donation {
+    display: inline-block;
+    text-align: center;
+    padding-left: 8%;
+    padding-right: 8%;
 }
