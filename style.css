@@ -50,18 +50,30 @@ body {
 .donation {
     display: block;
     text-align: center;
-    padding-left: 8%;
-    padding-right: 8%;
+    padding-left: 100px;
+    margin-bottom: 100px;
 }
 
 .don-dis {
     display: flex;
     justify-content: center;
+    margin-bottom: 30px;
 }
 
 .don-dis h1 {
     padding-left: 25px;
     padding-right: 25px;
+}
+
+.para {
+
+    color: gray;
+    font-size: 20px;
+    padding-left: 8%;
+    padding-right: 8%;
+    margin-bottom: 40px;
+    margin-left: 100px;
+
 }
 
 #link {
@@ -94,4 +106,53 @@ body {
     text-align: center;
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+.header1 {
+    font-weight: 800;
+    font-size: 55px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+#header2 {
+    text-align: center;
+    padding-left: 100px;
+}
+
+p {
+    color: gray;
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
+.flexible-content {
+    display: flex;
+    padding-left: 9.5%;
+    padding-right: 9.5%;
+
+}
+
+.box2 {
+    border: none;
+    padding: 20px 10px;
+    height: 240px;
+    width: 30%;
+    margin: 1%;
+}
+
+.link {
+    text-decoration: none;
+}
+
+#b1 {
+    background-color: rgba(30, 104, 150, 0.271);
+}
+
+#b2 {
+    background-color: rgba(250, 124, 132, 0.271);
+}
+
+#b3 {
+    background-color: rgba(245, 245, 132, 0.597);
 }
